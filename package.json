@@ -1,11 +1,19 @@
 {
-  "name": "semilon/teat-pub-js",
+  "name": "test-pub",
   "version": "1.0.0",
-  "description": "test for public js package",
+  "description": "Testing public is package",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/semilon/teat-pub-js.git"
+  },
+  "author": "Semilon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/semilon/teat-pub-js/issues"
+  },
+  "homepage": "https://github.com/semilon/teat-pub-js#readme"
 }
